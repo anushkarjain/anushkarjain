@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to *AI and ML* to learn and explore.
 - 🤔 Since I'm a begginer, I’m looking for help with **Open Source contributions**.
 
-- 📫 How to reach me: https://www.linkedin.com/in/anushkarjain/  anushka.rjain29@gmail.com    
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anushkarjain/)  [Gmail](anushka.rjain29@gmail.com)    
                 
 - 😄 Pronouns: She/her
 
