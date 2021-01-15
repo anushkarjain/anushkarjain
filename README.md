@@ -1,4 +1,4 @@
-### Hi there pal! 👋
+### Hi there! 👋
 
 - 🔭 I’m always working on a few side projects.
 - 🌱 I’m passionate about *Machine Learning* and currently learning more and more about it.
